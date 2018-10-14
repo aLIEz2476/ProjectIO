@@ -9,6 +9,7 @@ public class GameManager : MonoBehaviour
     public Player m_cPlayer;
     //public PlayerAttack m_cPlayer;
     public RespawnManager m_cRespawnManager;
+    public NetworkManager m_cNetworkManager;
 
     public GUIPlayer m_cGUIPlayer;
 
